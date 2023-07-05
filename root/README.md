@@ -6,3 +6,6 @@ https://github.com/osarana/osarana.github.io/assets/104749418/9a7a2bff-e0b4-4c17
 
 # Projects
 * [CGPIO](https://github.com/osarana/CGPIO)
+Implementation of various examples provided throughout the book "Computer Graphics Programming in OpenGL - C++"
+Currently implemented complimentary features such as:
+  * A very simple .obj file loader to import models
