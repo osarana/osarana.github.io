@@ -8,5 +8,12 @@ https://github.com/osarana/osarana.github.io/assets/104749418/9a7a2bff-e0b4-4c17
 * [CGPIO](https://github.com/osarana/CGPIO)<br>
 Implementation of various examples provided throughout the book "Computer Graphics Programming in OpenGL - C++"
 Currently implemented complementary features such as:
-  * A very simple .obj file loader to import models
+  * A very simple .obj file loader to import models with textures and normals
+  * Various techniques for lighting/reflections
+        * Gouraud Shading
+        * Phong Shading
+        * Blinn-Phong Shading
+  * Shadow techniques
+        * Shadow Mapping
+        * Percentage Closer Filtering (PCF) for soft shadows  
 
