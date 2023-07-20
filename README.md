@@ -15,5 +15,5 @@ Currently implemented complementary features such as:
     * Blinn-Phong Shading  
   * Shadow techniques
     * Shadow Mapping
-    * Percentage Closer Filtering (PCF) for soft shadows 
+    * Percentage Closer Filtering (PCF)
 
