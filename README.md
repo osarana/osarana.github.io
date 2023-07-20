@@ -10,10 +10,10 @@ Implementation of various examples provided throughout the book "Computer Graphi
 Currently implemented complementary features such as:
   * A very simple .obj file loader to import models with textures and normals
   * Various techniques for lighting/reflections
-        * Gouraud Shading
-        * Phong Shading
-        * Blinn-Phong Shading
+    * Gouraud Shading
+    * Phong Shading
+    * Blinn-Phong Shading  
   * Shadow techniques
-        * Shadow Mapping
-        * Percentage Closer Filtering (PCF) for soft shadows  
+    * Shadow Mapping
+    * Percentage Closer Filtering (PCF) for soft shadows 
 
