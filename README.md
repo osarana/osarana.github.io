@@ -30,4 +30,4 @@ Feel free to explore these projects for more details and code samples.
 
 ## Contact
 
-You can reach me at [Your Email](oxa318@miami.edu)
+You can reach me at [My Email](oxa318@miami.edu)
