@@ -1,27 +1,24 @@
-## 🔗 Navigation
-- [📂 Projects](projects)
+# 📂 Projects
 
-# 🏠 About Me
+Here’s a detailed list of my projects:
 
-Hi, I’m **Oscar Arana**, a recent graduate from the University of Miami, where I earned a **Bachelor of Science in Computer Science and Mathematics** with Honors in Computer Science. My academic journey culminated in a bachelor’s thesis titled *Comparative Analysis of Maximum Clearance Path Planning Versus OMPL Algorithms in 4 DOF Robotic Motion Planning*. This project explored advanced path-planning techniques and provided valuable insights into the field of robotics. [Read more about it here.](link-to-thesis) 
+## 1. [CuRay](https://github.com/osarana/CuRay)
+A GPU-accelerated raytracer that enhances Peter Shirley’s *Ray Tracing in One Weekend*:
+- **Language**: C++, CUDA
+- **Features**: Reduced render times from 90 seconds to 2.5 seconds on a Ryzen 5600X/RTX 3060.
+- [View on GitHub](https://github.com/osarana/CuRay)
 
-## 🎯 What I Do
-I am a **Software Engineer** with a deep passion for:
-- **Virtual Reality (VR)** and **Augmented Reality (AR)**: Building immersive applications that redefine user experiences.
-- **Robotics**: Developing intelligent systems that navigate and interact with complex environments.
-- **Computer Systems and Graphics**: Optimizing low-level systems and crafting visually stunning, high-performance graphics solutions.
+## 2. [CHIP-8 Emulator](https://github.com/osarana/CHIP8)
+A CHIP-8 emulator built in C with SDL2:
+- **Language**: C, SDL2
+- **Features**: Runs `.ch8` games like Pong, Tetris, and Space Invaders.
+- [View on GitHub](https://github.com/osarana/CHIP8)
 
-## 🧠 My Skills
-- **Programming Languages**: C++, C#, C, Python, MATLAB, GLSL, and Java.
-- **Tools & Frameworks**: Unity, Unreal Engine, OpenGL, ROS, and Linux.
+## 3. CAR-OS (WIP)
+An educational operating system with a bootloader, FAT12 filesystem support, and cross-platform compatibility:
+- **Language**: C, x86 Assembly, QEMU
 
-## 🌟 Interests Beyond Code
-When I’m not coding, you’ll often find me:
-- **Playing chess**: A favorite mental workout.
-- **Billiards and bowling**: I’m proud to have won Bowling Champion trophies in San Diego.
-
-## 🚀 What Drives Me
-I’m motivated by the challenge of solving complex problems, advancing cutting-edge technologies, and contributing to innovations that shape the future of robotics and VR/AR.
-
-Feel free to explore my projects, and don’t hesitate to reach out—I’d love to connect!
-
+## 4. LungScan: 2D CNN for COVID-19 Diagnosis
+A transfer learning-based 2D CNN diagnosing COVID-19 using CT images:
+- **Language**: Python, PyTorch
+- **Accuracy**: Over 90% test accuracy
