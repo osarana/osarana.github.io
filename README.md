@@ -5,7 +5,7 @@ Here’s a showcase of my notable projects, complete with visuals and descriptio
 ---
 
 ## 1. CuRay
-![CuRay Screenshot](assets/curay.png)
+![CuRay Screenshot](assets/curay.jpg)
 
 **Description**: A GPU-accelerated raytracer enhancing Peter Shirley’s *Ray Tracing in One Weekend* with CUDA optimizations.  
 - **Language**: C++, CUDA  
