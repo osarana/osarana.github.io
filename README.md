@@ -1,33 +1,20 @@
-# Welcome
+## 🚀 About Me
+Hi there! I’m Oscar Arana, a passionate **Software Engineer** specializing in **Virtual Reality (VR)**, **Systems Programming**, **Computer Graphics**, and **Operating Systems**. With a strong foundation in **C++, C#, and C**, I thrive on building high-performance solutions and tackling complex challenges. 
 
-My primary interests lie in computer graphics, systems, math, and algorithms.
-I work as an XR Software Engineer.
+Here, you'll find a collection of my projects, research, and contributions to open-source. Take a look around, and feel free to reach out!
 
-https://github.com/osarana/osarana.github.io/assets/104749418/9a7a2bff-e0b4-4c17-a831-7a542eca4384
+---
 
-## Projects
+## 🔗 Navigation
+- [🏠 About](#about-me)
+- [📂 Projects](#projects)
 
-Here are some of my notable projects:
 
-### [CGPIO](https://github.com/osarana/CGPIO)
+---
 
-Implementation of various examples provided throughout the book "Computer Graphics Programming in OpenGL - C++"
+## 📫 Contact
+Want to collaborate or connect? Reach out through any of the channels below:
+- **Email**: [oarana543@gmail.com](mailto:oarana543@gmail.com)  
 
-#### Features
 
-* **.obj File Loader:** A simple .obj file loader to import models with textures and normals.
-
-* **Lighting and Reflections:** Various techniques for lighting and reflections, including:
-  * Gouraud Shading
-  * Phong Shading
-  * Blinn-Phong Shading
-
-* **Shadow Techniques:** Implementations of shadow techniques like:
-  * Shadow Mapping
-  * Percentage Closer Filtering (PCF)
-
-Feel free to explore these projects for more details and code samples.
-
-## Contact
-
-You can reach me at [My Email](mailto:oxa318@miami.edu)
+Thank you for visiting! 🌟
