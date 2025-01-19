@@ -6,8 +6,7 @@ Here, you'll find a collection of my projects, research, and contributions to op
 ---
 
 ## 🔗 Navigation
-- [🏠 About](#about-me)
-- [📂 Projects](#projects)
+- [📂 Projects](projects)
 
 
 ---
