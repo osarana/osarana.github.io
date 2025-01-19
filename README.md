@@ -1,19 +1,27 @@
-## 🚀 About Me
-Hi there! I’m Oscar Arana, a passionate **Software Engineer** specializing in **Virtual Reality (VR)**, **Systems Programming**, **Computer Graphics**, and **Operating Systems**. With a strong foundation in **C++, C#, and C**, I thrive on building high-performance solutions and tackling complex challenges. 
-
-Here, you'll find a collection of my projects, research, and contributions to open-source. Take a look around, and feel free to reach out!
-
----
-
 ## 🔗 Navigation
 - [📂 Projects](projects)
 
+# 🏠 About Me
 
----
+Hi, I’m **Oscar Arana**, a recent graduate from the University of Miami, where I earned a **Bachelor of Science in Computer Science and Mathematics** with Honors in Computer Science. My academic journey culminated in a bachelor’s thesis titled *Comparative Analysis of Maximum Clearance Path Planning Versus OMPL Algorithms in 4 DOF Robotic Motion Planning*. This project explored advanced path-planning techniques and provided valuable insights into the field of robotics. [Read more about it here.](link-to-thesis) 
 
-## 📫 Contact
-Want to collaborate or connect? Reach out through any of the channels below:
-- **Email**: [oarana543@gmail.com](mailto:oarana543@gmail.com)  
+## 🎯 What I Do
+I am a **Software Engineer** with a deep passion for:
+- **Virtual Reality (VR)** and **Augmented Reality (AR)**: Building immersive applications that redefine user experiences.
+- **Robotics**: Developing intelligent systems that navigate and interact with complex environments.
+- **Computer Systems and Graphics**: Optimizing low-level systems and crafting visually stunning, high-performance graphics solutions.
 
+## 🧠 My Skills
+- **Programming Languages**: C++, C#, C, Python, MATLAB, GLSL, and Java.
+- **Tools & Frameworks**: Unity, Unreal Engine, OpenGL, ROS, and Linux.
 
-Thank you for visiting! 🌟
+## 🌟 Interests Beyond Code
+When I’m not coding, you’ll often find me:
+- **Playing chess**: A favorite mental workout.
+- **Billiards and bowling**: I’m proud to have won Bowling Champion trophies in San Diego.
+
+## 🚀 What Drives Me
+I’m motivated by the challenge of solving complex problems, advancing cutting-edge technologies, and contributing to innovations that shape the future of robotics and VR/AR.
+
+Feel free to explore my projects, and don’t hesitate to reach out—I’d love to connect!
+
